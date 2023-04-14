@@ -1,0 +1,19 @@
+{
+  "name": "cypress_mark",
+  "version": "1.0.0",
+  "description": "projeto de teste ponta a ponta Mark L",
+  "main": "index.js",
+  "author": "Paulo Junior",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@shelex/cypress-allure-plugin": "^2.38.3",
+    "cypress": "^12.2.0"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "allure-commandline": "^2.21.0",
+    "D": "^1.0.0",
+    "http-server": "^14.1.1"
+  }
+}
